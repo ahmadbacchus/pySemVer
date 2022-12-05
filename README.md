@@ -1,6 +1,6 @@
 # Python based semver
 ![Alt text](img.png?raw=true "")
-#Commmand Line example
+
 
 ## Get Major version
 ```python semVer.py --currentVersion v1.0.0 --versionType major ```

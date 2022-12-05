@@ -1,4 +1,4 @@
-# python based semver
+# Python based semver
 ![Alt text](img.png?raw=true "")
 #Commmand Line example
 

@@ -3,10 +3,10 @@
 #Commmand Line example
 
 Get Major version
-'''shell semVer.py --currentVersion v1.0.0 --versionType major '''
+``` shell semVer.py --currentVersion v1.0.0 --versionType major ```
 
 Get Minor
-'''shell  semVer.py --currentVersion v1.0.0 --versionType minor '''
+```shell  semVer.py --currentVersion v1.0.0 --versionType minor ```
 
 Get Hotfix
-'''shell  semVer.py --currentVersion v1.0.0 --versionType hotfix --baseVersion v1.0.0 '''
+``` shell  semVer.py --currentVersion v1.0.0 --versionType hotfix --baseVersion v1.0.0 ```
